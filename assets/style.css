@@ -53,3 +53,15 @@ main {
     width: 100%;
     background: url("https://media.gettyimages.com/id/106815307/photo/muhammad-ali-onstage-during-the-michael-j-fox-foundations-2010-benefit-a-funny-thing-happened.jpg?s=612x612&w=0&k=20&c=NtcDQXs6Xo0bbEgaWrs1JOFKGpc_2duzZc02Y9XkmAY=") no-repeat 35% 35%/cover;
 }
+
+#about-ali {
+    margin-top: 20px;
+}
+
+#about-ali>h1 {
+    text-align: center;
+}
+
+#about-ali>p {
+    padding: 10px 20px 30px 20px;
+}
