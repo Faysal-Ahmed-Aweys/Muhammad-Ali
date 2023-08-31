@@ -6,6 +6,13 @@
     margin: 0;
 }
 
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
 header {
     background-color: white;
     height: 85px;
@@ -34,4 +41,10 @@ header a {
 
 .active {
     border-bottom: 1px solid gray;
+}
+
+main {
+    flex: 1 0 auto;
+    margin-top: 85px;
+    background-color: red;
 }
