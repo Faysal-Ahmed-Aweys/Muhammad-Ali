@@ -17,13 +17,15 @@ h1,
 h2 {
     letter-spacing: 1px;
     text-align: center;
+    padding: 10px 10px 0 10px;
+    color: #DAC593;
 }
 
 header {
     background-color: white;
     height: 85px;
     width: 100%;
-    border-bottom: 1px solid black;
+    border-bottom: 2px solid black;
     position: fixed;
     z-index: 99;
     display: flex;
@@ -45,8 +47,13 @@ header a {
     margin-right: 20px;
 }
 
+header a:hover {
+    color: #F0E6C0;
+    border-bottom: 1px solid #DAC593;
+}
+
 .active {
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid black;
 }
 
 main {
@@ -61,13 +68,54 @@ main {
 }
 
 #about-ali {
-    margin-top: 20px;
+    margin-top: 5px;
+    background-color: white
 }
 
 #about-ali>p {
-    padding: 10px 20px 30px 20px;
+    padding: 10px 20px 10px 20px;
     letter-spacing: 1px;
     font-size: large;
+}
+
+#table-of-content {
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    background-color: white;
+}
+
+#table-of-content a {
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+}
+
+#table-of-content a:hover {
+    border-bottom: 1px solid blue;
+}
+
+#table-of-content li:first-of-type {
+    padding-top: 10px;
+}
+
+#table-of-content li {
+    padding: 0 20px 0 20px;
+    letter-spacing: 1px;
+    font-size: large;
+}
+
+.text-content {
+    padding: 10px 20px 20px 20px;
+    letter-spacing: 1px;
+    font-size: large;
+}
+
+.section-image img {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 50px;
 }
 
 footer {
@@ -87,18 +135,4 @@ footer a {
     justify-content: space-evenly;
     align-items: flex-start;
     padding: 10px;
-}
-
-.text-content {
-    padding: 10px 20px 20px 20px;
-    letter-spacing: 1px;
-    font-size: large;
-}
-
-.section-image img {
-    width: 90%;
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-bottom: 50px;
-
 }
