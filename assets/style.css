@@ -79,7 +79,6 @@ main {
 }
 
 #table-of-content {
-    text-align: center;
     margin-bottom: 15px;
     margin-top: 5px;
     background-color: wheat;
@@ -152,15 +151,15 @@ footer a {
     }
 
     #about-ali {
-        width: 70%;
+        width: 60%;
         margin: 0;
+        flex: 1 0 auto;
+        padding-top: 60px;
         box-shadow: 0 2px 2px black;
         background-color: whitesmoke;
     }
 
     #about-ali>p {
-        flex: 1 0 auto;
-        padding: 30px 50px 50px 50px;
         font-size: x-large;
     }
 
@@ -168,10 +167,62 @@ footer a {
         background-color: white;
         margin: 0;
         box-shadow: 0 2px 2px black;
-        height: 500px;
+        padding-top: 100px;
+        height: 400px;
     }
 
-    #main-section {
-        margin: 0;
+    #table-of-content h1 {
+        font-size: x-large;
     }
+
+    #section-one {
+        padding-top: 50px;
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: center;
+    }
+
+    #section-one .section-text {
+        width: 50%;
+    }
+
+    #section-two {
+        padding-top: 50px;
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: center;
+    }
+
+    #section-two .section-text {
+        width: 50%;
+        overflow: scroll;
+        height: 490px
+    }
+
+    #section-three {
+        padding-top: 50px;
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: center;
+    }
+
+    #section-three .section-text {
+        width: 50%;
+        overflow: scroll;
+        height: 490px
+    }
+
+    #section-four {
+        padding-top: 50px;
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: center;
+    }
+
+    #section-four .section-text {
+        width: 50%;
+        overflow: scroll;
+        height: 490px
+    }
+
 }
