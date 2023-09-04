@@ -75,19 +75,20 @@ main {
 #about-ali>p {
     padding: 10px 20px 10px 20px;
     letter-spacing: 1px;
-    font-size: large;
+    font-size: x-large;
 }
 
 #table-of-content {
-    margin-bottom: 15px;
-    margin-top: 5px;
-    background-color: wheat;
+    margin: 0 10px 0 10px;
+    background-color: white;
+    text-align: center;
 }
 
 #table-of-content a {
     text-decoration: none;
     margin: 10px;
     color: black;
+    font-size: 20px;
 }
 
 #table-of-content a:hover {
@@ -112,7 +113,7 @@ main {
 .text-content {
     padding: 10px 20px 20px 20px;
     letter-spacing: 1px;
-    font-size: large;
+    font-size: 20px;
 }
 
 .section-image img {
@@ -147,32 +148,21 @@ footer a {
         flex-flow: row nowrap;
         margin-bottom: 20px;
         justify-content: center;
-        margin: 0;
+        margin: 0 10px 0 10px;
     }
 
     #about-ali {
         width: 60%;
-        margin: 0;
-        flex: 1 0 auto;
-        padding-top: 60px;
+        padding-top: 40px;
         box-shadow: 0 2px 2px black;
         background-color: whitesmoke;
     }
 
-    #about-ali>p {
-        font-size: x-large;
-    }
-
     #table-of-content {
-        background-color: white;
         margin: 0;
         box-shadow: 0 2px 2px black;
-        padding-top: 100px;
-        height: 400px;
-    }
-
-    #table-of-content h1 {
-        font-size: x-large;
+        padding-top: 120px;
+        height: 380px;
     }
 
     #section-one {
@@ -182,8 +172,8 @@ footer a {
         justify-content: center;
     }
 
-    #section-one .section-text {
-        width: 50%;
+    #section-one .section-image img {
+        height: 500px;
     }
 
     #section-two {
@@ -193,10 +183,14 @@ footer a {
         justify-content: center;
     }
 
-    #section-two .section-text {
+    #section-two .section-image img {
+        height: 500px;
+    }
+
+    .section-text {
         width: 50%;
         overflow: scroll;
-        height: 490px
+        height: 495px
     }
 
     #section-three {
@@ -206,12 +200,6 @@ footer a {
         justify-content: center;
     }
 
-    #section-three .section-text {
-        width: 50%;
-        overflow: scroll;
-        height: 490px
-    }
-
     #section-four {
         padding-top: 50px;
         display: flex;
@@ -219,10 +207,8 @@ footer a {
         justify-content: center;
     }
 
-    #section-four .section-text {
-        width: 50%;
-        overflow: scroll;
-        height: 490px
+    #section-four .section-image img {
+        height: 500px;
     }
 
 }
