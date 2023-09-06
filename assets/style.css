@@ -22,6 +22,12 @@ h3 {
     color: #DAC593;
 }
 
+p {
+    font-size: large;
+    letter-spacing: 1px;
+    padding-top: 10px;
+}
+
 header {
     background-color: white;
     height: 85px;
@@ -145,11 +151,29 @@ footer a {
     padding: 10px;
 }
 
-/* author page  */
+/* gallery page */
+#ali-images {
+    line-height: 0;
+}
+
+#ali-images img {
+    line-height: 1px;
+}
+
+/* aut
+hor page  */
 
 #author {
     width: 80%;
     margin: auto;
+}
+
+#ali-images {
+    line-height: 0;
+}
+
+#ali-images img {
+    line-height: 1px;
 }
 
 @media screen and (min-width: 992px) {
@@ -219,6 +243,12 @@ footer a {
 
     #section-four .section-image img {
         height: 500px;
+    }
+
+    /* author page */
+
+    #author-page {
+        margin: 80px 5% 0 5%;
     }
 
 }
