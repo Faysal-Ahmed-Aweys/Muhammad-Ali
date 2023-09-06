@@ -99,7 +99,7 @@ main {
 }
 
 #table-of-content a:hover {
-    border-bottom: 1px solid blue;
+    border-bottom: 1px solid wheat;
 }
 
 #table-of-content li:first-of-type {
@@ -160,20 +160,21 @@ footer a {
     line-height: 1px;
 }
 
-/* aut
-hor page  */
-
-#author {
+/* author page  */
+#author,
+#get-in-touch {
     width: 80%;
     margin: auto;
+    margin-top: 10px;
 }
 
-#ali-images {
-    line-height: 0;
-}
-
-#ali-images img {
-    line-height: 1px;
+#get-in-touch {
+    margin-top: 30px;
+    width: 80%;
+    background-color: #DAC593;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 /* media querry for large or landscape phones */
