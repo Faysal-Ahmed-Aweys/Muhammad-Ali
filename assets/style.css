@@ -176,6 +176,15 @@ hor page  */
     line-height: 1px;
 }
 
+/* media querry for large or landscape phones */
+@media screen and (min-width: 576px) {
+    #ali-images {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
+
+/* media querry for large screens, Laptops and desktops. */
 @media screen and (min-width: 992px) {
     #brief-section {
         display: flex;
@@ -243,6 +252,12 @@ hor page  */
 
     #section-four .section-image img {
         height: 500px;
+    }
+
+    /* gallery page */
+    #ali-images {
+        column-count: 3;
+        column-gap: 0;
     }
 
     /* author page */
