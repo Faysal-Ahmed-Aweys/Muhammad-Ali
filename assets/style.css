@@ -193,7 +193,7 @@ footer a {
 
 /* media querry for large screens, Laptops and desktops. */
 @media screen and (min-width: 992px) {
-    #brief-section {
+    #introduction {
         display: flex;
         flex-flow: row nowrap;
         margin-bottom: 20px;
@@ -210,9 +210,10 @@ footer a {
 
     #table-of-content {
         margin: 0;
+        width: 40%;
         box-shadow: 0 2px 2px black;
-        padding-top: 120px;
-        height: 380px;
+        padding: 100px 0 100px 0;
+        height: auto;
     }
 
     #section-one {
