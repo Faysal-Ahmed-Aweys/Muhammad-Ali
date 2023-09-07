@@ -25,7 +25,7 @@ h3 {
 p {
     font-size: large;
     letter-spacing: 1px;
-    padding-top: 10px;
+    padding: 10px 10px 20px 10px;
 }
 
 header {
@@ -72,11 +72,13 @@ main {
 #hero-image {
     height: 604px;
     width: 100%;
-    background: url("https://media.gettyimages.com/id/106815307/photo/muhammad-ali-onstage-during-the-michael-j-fox-foundations-2010-benefit-a-funny-thing-happened.jpg?s=612x612&w=0&k=20&c=NtcDQXs6Xo0bbEgaWrs1JOFKGpc_2duzZc02Y9XkmAY=") no-repeat 35% 35%/cover;
+    margin-top: 82px;
+    background: url("https://media.gettyimages.com/id/106815307/photo/muhammad-ali-onstage-during-the-michael-j-fox-foundations-2010-benefit-a-funny-thing-happened.jpg?s=612x612&w=0&k=20&c=NtcDQXs6Xo0bbEgaWrs1JOFKGpc_2duzZc02Y9XkmAY=") no-repeat 25% 25%/cover;
 }
 
 #about-ali {
     margin-top: 5px;
+    background-color: whitesmoke;
 }
 
 #about-ali>p {
