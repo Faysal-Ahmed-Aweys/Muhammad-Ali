@@ -183,6 +183,8 @@ footer a {
     width: 90%;
     margin: auto;
     margin-top: 10px;
+    height: auto;
+    padding-bottom: 20px;
 }
 
 #get-in-touch {
@@ -196,6 +198,11 @@ footer a {
 
 #get-in-touch-form {
     padding-top: 10px;
+}
+
+iframe {
+    height: 200px;
+    width: 50%;
 }
 
 /* media querry for large or landscape phones */
