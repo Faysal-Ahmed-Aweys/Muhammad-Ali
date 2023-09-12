@@ -129,6 +129,22 @@ span {
     padding-bottom: 150px;
 }
 
+#section-one {
+    padding-top: 70px;
+}
+
+#section-two {
+    padding-top: 70px;
+}
+
+#section-three {
+    padding-top: 70px;
+}
+
+#section-four {
+    padding-top: 70px;
+}
+
 .text-content {
     width: 90%;
     margin: auto;
@@ -270,6 +286,22 @@ input[type="submit"] {
         width: 300px;
     }
 
+    #section-one {
+        padding-top: 70px;
+    }
+
+    #section-two {
+        padding-top: 70px;
+    }
+
+    #section-three {
+        padding-top: 70px;
+    }
+
+    #section-four {
+        padding-top: 70px;
+    }
+
 }
 
 /* media querry for large screens, Laptops and desktops. */
@@ -298,7 +330,7 @@ input[type="submit"] {
     }
 
     #section-one {
-        padding-top: 50px;
+        padding-top: 70px;
         display: flex;
         flex-flow: row nowrap;
         justify-content: center;
@@ -309,7 +341,7 @@ input[type="submit"] {
     }
 
     #section-two {
-        padding-top: 50px;
+        padding-top: 70px;
         display: flex;
         flex-flow: row nowrap;
         justify-content: center;
@@ -330,14 +362,14 @@ input[type="submit"] {
     }
 
     #section-three {
-        padding-top: 50px;
+        padding-top: 70px;
         display: flex;
         flex-flow: row nowrap;
         justify-content: center;
     }
 
     #section-four {
-        padding-top: 50px;
+        padding-top: 70px;
         display: flex;
         flex-flow: row nowrap;
         justify-content: center;
