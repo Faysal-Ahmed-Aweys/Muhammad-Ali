@@ -22,7 +22,7 @@ h3 {
     text-align: center;
     padding: 10px 10px 0 10px;
     color: #DAC593;
-    font-family: open sans, sans-serif;
+    font-family: "open sans", sans-serif;
 }
 
 p {
@@ -59,6 +59,11 @@ header a {
 
 header a:hover {
     color: #F0E6C0;
+}
+
+#logo a img {
+    width: 100%;
+    height: 50px;
 }
 
 .active {
@@ -111,6 +116,7 @@ header a:hover {
     letter-spacing: 1px;
     font-size: large;
     list-style-type: none;
+    padding-bottom: 20px;
 }
 
 span {
@@ -173,6 +179,7 @@ footer a {
     margin-top: 82px;
     padding-bottom: 10px;
     flex: 1 0 auto;
+    background-color: whitesmoke;
 }
 
 #ali-images {
@@ -190,6 +197,7 @@ footer a {
     flex: 1 0 auto;
     height: auto;
     padding-bottom: 100px;
+    background-color: whitesmoke;
 }
 
 #author,
@@ -217,6 +225,12 @@ footer a {
 #get-in-touch-form {
     padding-top: 10px;
     padding-left: 10px;
+}
+
+#get-in-touch-form p {
+    font-size: large;
+    letter-spacing: 1px;
+    padding: 0;
 }
 
 iframe {
