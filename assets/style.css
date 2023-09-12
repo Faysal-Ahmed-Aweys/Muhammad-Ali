@@ -21,7 +21,7 @@ h3 {
     letter-spacing: 1px;
     text-align: center;
     padding: 10px 10px 0 10px;
-    color: #DAC593;
+    color: black;
     font-family: "open sans", sans-serif;
 }
 
@@ -58,7 +58,7 @@ header a {
 }
 
 header a:hover {
-    color: #F0E6C0;
+    color: #DAC593;
 }
 
 #logo a img {
@@ -219,7 +219,7 @@ footer a {
 }
 
 #get-in-touch h3 {
-    color: white;
+    color: black;
 }
 
 #get-in-touch-form {
@@ -249,6 +249,7 @@ input[type="submit"] {
     margin: 0 30% 0 30%;
     padding: 10px;
     background-color: white;
+    color: black;
 }
 
 /* media querry for large or landscape phones */
