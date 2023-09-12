@@ -210,6 +210,10 @@ footer a {
     margin-bottom: 20px;
 }
 
+#get-in-touch h3 {
+    color: white;
+}
+
 #get-in-touch-form {
     padding-top: 10px;
     padding-left: 10px;
@@ -230,6 +234,7 @@ input[type="submit"] {
     width: 40%;
     margin: 0 30% 0 30%;
     padding: 10px;
+    background-color: white;
 }
 
 /* media querry for large or landscape phones */
