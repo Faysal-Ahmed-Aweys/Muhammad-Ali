@@ -202,7 +202,8 @@ span {
     margin-bottom: 10px;
 }
 
-#get-in-touch,#thankyou {
+#get-in-touch,
+#thankyou {
     margin-top: 30px;
     width: 80%;
     background-color: #dac593;
@@ -231,6 +232,10 @@ input[type="submit"] {
     padding: 10px;
     background-color: white;
     color: black;
+}
+
+input[type="submit"]:hover {
+    background-color: whitesmoke;
 }
 
 /* thank you page */
