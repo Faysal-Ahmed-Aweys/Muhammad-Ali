@@ -4,11 +4,20 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- title -->
-    <title>Life of Muhammad Ali</title>
+    <!-- meta tags for search engines  -->
+    <!-- description content from: https://www.britannica.com/biography/Muhammad-Ali-boxer -->
+    <meta
+      name="description"
+      content="Muhammad Ali was one of the greatest boxers in history, the first fighter to win the world heavyweight championship on three separate occasions"
+    />
+    <meta
+      name="keywords"
+      content="Muhammad Ali, Muhammad, Ali, history, history of Muhammad Ali, black history"
+    />
     <!-- link to external css -->
     <link rel="stylesheet" href="assets/style.css" />
-
+    <!-- title -->
+    <title>Life of Muhammad Ali</title>
     <!-- favicon -->
     <link
       rel="apple-touch-icon"
@@ -30,6 +39,7 @@
   </head>
 
   <body>
+    <!-- header -->
     <header>
       <div id="logo">
         <a href="index.html"
@@ -39,12 +49,22 @@
       <nav>
         <ul id="menu">
           <li><a href="index.html">About</a></li>
-          <li><a href="gallery.html">Gallery</a></li>
-          <li><a href="author.html" class="active">Author</a></li>
+          <li>
+            <a href="gallery.html" aria-label="Go to gallery page">Gallery</a>
+          </li>
+          <li>
+            <a
+              href="author.html"
+              class="active"
+              aria-label="Go to the Author page"
+              >Author</a
+            >
+          </li>
         </ul>
       </nav>
     </header>
 
+    <!-- main section -->
     <main id="author-page">
       <section id="author">
         <h1>About the Author</h1>
@@ -72,6 +92,7 @@
         </p>
       </section>
 
+      <!-- thankyou section -->
       <div id="get-in-touch">
         <p class="center">
           Thank you for your subscription. I will be in touch with you very
