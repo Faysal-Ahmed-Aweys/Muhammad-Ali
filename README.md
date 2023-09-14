@@ -11,4 +11,9 @@ Muhammad Ali is a history website that talks about the life of Cassius Marcellus
 #### **Logo** 
 ![Logo and title](/assets/images/logoandtitle.jpg)
 
+#### **navigation bar**
+![navigation bar](/assets/images/navbar.jpg)
+
+
+
 
