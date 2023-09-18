@@ -9,7 +9,6 @@
 /* general styles */
 body {
     min-height: 100vh;
-    display: flex;
     flex-direction: column;
     background-color: white;
     position: relative;
@@ -31,6 +30,14 @@ p {
     padding: 10px 10px 20px 10px;
 }
 
+.flex {
+    display: flex;
+}
+
+.padding-top {
+    padding-top: 70px;
+}
+
 .center {
     text-align: center;
 }
@@ -44,7 +51,6 @@ header {
     border-bottom: 2px solid black;
     position: fixed;
     z-index: 99;
-    display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
     align-items: center;
@@ -135,22 +141,6 @@ span {
     margin-top: 10px;
     background-color: whitesmoke;
     padding-bottom: 150px;
-}
-
-#section-one {
-    padding-top: 70px;
-}
-
-#section-two {
-    padding-top: 70px;
-}
-
-#section-three {
-    padding-top: 70px;
-}
-
-#section-four {
-    padding-top: 70px;
 }
 
 .text-content {
@@ -261,18 +251,18 @@ footer a {
 }
 
 #socials {
-    display: flex;
     flex-flow: row nowrap;
     justify-content: space-evenly;
     align-items: flex-start;
 }
 
 #socials a {
-    padding: 10px 0 20px 0;
+    padding: 10px 0 10px 0;
 }
 
 #copyright p {
-    padding: 0px;
+    padding-bottom: 10px;
+    margin: 10px;
     text-align: center;
 }
 
@@ -281,19 +271,7 @@ footer a {
 @media screen and (min-width: 576px) {
 
     /* main section */
-    #section-one {
-        padding-top: 70px;
-    }
-
-    #section-two {
-        padding-top: 70px;
-    }
-
-    #section-three {
-        padding-top: 70px;
-    }
-
-    #section-four {
+    .padding-top {
         padding-top: 70px;
     }
 
@@ -320,6 +298,9 @@ footer a {
 
 /* media querry for large screens (Laptops) */
 @media screen and (min-width: 992px) {
+    .sectionflex {
+        display: flex;
+    }
 
     /* introduction */
     #introduction {
@@ -346,43 +327,39 @@ footer a {
     }
 
     /* main section */
-    #section-one {
+    #early-years-section {
         padding-top: 70px;
-        display: flex;
         flex-flow: row nowrap;
         justify-content: center;
     }
 
-    #section-one .section-image img {
+    #early-years-section .section-image img {
         height: 500px;
     }
 
-    #section-two {
+    #heavyweight-section {
         padding-top: 70px;
-        display: flex;
         flex-flow: row nowrap;
         justify-content: center;
     }
 
-    #section-two .section-image img {
+    #heavyweight-section .section-image img {
         height: 500px;
     }
 
-    #section-three {
+    #return-section {
         padding-top: 70px;
-        display: flex;
         flex-flow: row nowrap;
         justify-content: center;
     }
 
-    #section-four {
+    #later-years-section {
         padding-top: 70px;
-        display: flex;
         flex-flow: row nowrap;
         justify-content: center;
     }
 
-    #section-four .section-image img {
+    #later-years-section .section-image img {
         height: 500px;
     }
 
@@ -415,24 +392,32 @@ footer a {
 
 @media screen and (min-width: 1290px) {
 
+    .sectionflex {
+        display: flex;
+    }
+
+    #hero-image {
+        min-height: 1800px;
+    }
+
     /* main section */
-    #section-one {
+    #early-years-section {
         padding-bottom: 50px;
     }
 
-    #section-one .section-image img {
+    #early-years-section .section-image img {
         margin-top: -30px;
     }
 
-    #section-two {
+    #heavyweight-section {
         margin-top: -50px;
     }
 
-    #section-two .section-image img {
+    #heavyweight-section .section-image img {
         margin-top: 10px;
     }
 
-    #section-three .section-image img {
+    #return-section .section-image img {
         margin-top: 20px;
     }
 
