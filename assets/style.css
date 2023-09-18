@@ -216,6 +216,11 @@ span {
     padding: 0;
 }
 
+input[type="text"],
+input[type="email"] {
+    width: 95%;
+}
+
 input[type="submit"] {
     width: 40%;
     margin: 0 30% 0 30%;
@@ -284,7 +289,7 @@ footer a {
     /* author page */
     input[type="text"],
     input[type="email"] {
-        width: 300px;
+        width: 95%;
     }
 
     /* thank you page */
@@ -384,9 +389,13 @@ footer a {
         margin: 80px 5% 0 5%;
     }
 
+    #get-in-touch {
+        text-align: center;
+    }
+
     input[type="text"],
     input[type="email"] {
-        width: 400px;
+        width: 80%;
     }
 }
 
