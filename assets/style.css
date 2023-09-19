@@ -46,7 +46,7 @@ p {
 
 header {
     background-color: white;
-    height: 85px;
+    height: 90px;
     width: 100%;
     border-bottom: 2px solid black;
     position: fixed;
@@ -73,7 +73,9 @@ header a:hover {
     color: #dac593;
 }
 
-#logo a img {}
+#logo a img {
+    width: 100%;
+}
 
 .active {
     border-bottom: 1px solid black;
@@ -290,6 +292,10 @@ footer a {
 /* media querry for large screens (Laptops) */
 @media screen and (min-width: 992px) {
 
+    .margin-top {
+        margin-top: 50px;
+    }
+
     /* introduction */
     #introduction {
         display: flex;
@@ -326,18 +332,10 @@ footer a {
         justify-content: center;
     }
 
-    #early-years-section .section-image img {
-        height: 500px;
-    }
-
     #heavyweight-section {
         padding-top: 70px;
         flex-flow: row nowrap;
         justify-content: center;
-    }
-
-    #heavyweight-section .section-image img {
-        height: 500px;
     }
 
     #return-section {
@@ -350,10 +348,6 @@ footer a {
         padding-top: 70px;
         flex-flow: row nowrap;
         justify-content: center;
-    }
-
-    #later-years-section .section-image img {
-        height: 500px;
     }
 
     .section-text {
