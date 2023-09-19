@@ -7,16 +7,16 @@ Muhammad Ali is a history website that talks about the life of Cassius Marcellus
 [click here](https://faysal-ahmed-aweys.github.io/Muhammad-Ali/) to view the live website. 
 
 ## **Features**
-### **Cuurent Features common to all pages**
+### **Curent Features common to all pages**
 #### **Header** 
-##### **Logo** 
-![Logo and title](/assets/images/logoandtitle.jpg)
+##### **Logo and titlr** 
+![Logo and title](/assets/docs/screenshots/logoandtitle.jpg)
 
 ##### **navigation bar**
 ![navigation bar](/assets/images/navbar.jpg)
 
 ##### **footer**
-![footer](/assets/images/footer.jpg)
+![footer](/assets/docs/screenshots/footer.jpg)
 
 
 
