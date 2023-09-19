@@ -55,6 +55,16 @@ Muhammad Ali is a history website that talks about the life of Cassius Marcellus
 #### **Form feedback**
 ![form feedback](/assets/docs/screenshots/thankyou.png)
 
+## **Testing**
+### **Validator testing**
+#### **HTML**
+no errors were returned on [W3C HTML validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffaysal-ahmed-aweys.github.io%2FMuhammad-Ali%2F)
+
+#### **CSS**
+no errors were returned on [W3C Jigsaw css validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffaysal-ahmed-aweys.github.io%2FMuhammad-Ali%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+
+
 
 
 
