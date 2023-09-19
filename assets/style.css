@@ -178,7 +178,6 @@ span {
     flex: 1 0 auto;
     background-color: whitesmoke;
     text-align: center;
-    min-height: 780px;
 }
 
 #get-in-touch,
@@ -191,8 +190,9 @@ span {
 #thankyou {
     width: 80%;
     background-color: #dac593;
-    min-height: 550px;
+    padding-bottom: 20px;
     margin-top: 50px;
+    margin-bottom: 150px;
 }
 
 #get-in-touch h3 {

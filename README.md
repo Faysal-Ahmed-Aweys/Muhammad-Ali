@@ -12,14 +12,14 @@ Muhammad Ali is a history website that talks about the life of Cassius Marcellus
 ##### **Logo and title** 
 ![Logo and title](/assets/docs/screenshots/logoandtitle.jpg)
 
-##### **navigation bar**
+##### **Navigation bar**
 ![navigation bar](/assets/docs/screenshots/navigationbar.png)
 
-##### **footer**
+##### **Footer**
 ![footer](/assets/docs/screenshots/footer.jpg)
 
 ### **Landing / About page**
-#### **hero-image**
+#### **Hero-image**
 ![hero-image](/assets/docs/screenshots/heroimage.png)
 
 #### **Introduction section**
@@ -37,14 +37,25 @@ Muhammad Ali is a history website that talks about the life of Cassius Marcellus
 #### **Later years section**
 ![Later years section](/assets/docs/screenshots/later-years.png)
 
-### **gallery page** 
+### **Gallery page** 
 
 #### **Ali images**
 ![Ali images](/assets/docs/screenshots/gallery.png)
 
-### **contact page**
-#### **Form**
-![Contact form](/assets/docs/screenshots/form.png)
+### **Contact page and Thank you page common feature**
+
+#### **About the developer**
+![About the developer](/assets/docs/screenshots/aboutdeveloper.png)
+
+### **Contact page** 
+#### **Get in touch form**
+![get in touch form](/assets/docs/screenshots/form.png)
+
+### **Thank you page** 
+#### **Form feedback**
+![form feedback](/assets/docs/screenshots/thankyou.png)
+
+## **Testing**
 
 
 
