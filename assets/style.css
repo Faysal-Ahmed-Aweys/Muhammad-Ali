@@ -73,6 +73,8 @@ header a:hover {
     color: #dac593;
 }
 
+#logo a img {}
+
 .active {
     border-bottom: 1px solid black;
 }
