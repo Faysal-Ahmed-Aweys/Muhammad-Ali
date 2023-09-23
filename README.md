@@ -8,7 +8,32 @@ Muhammad Ali is a history website that talks about the life of Cassius Marcellus
 
 
 ## **Planning** 
+### **site aims:** 
+* To educate users on the history of Muhammad Ali. 
+* To Inspire users that they can achieve anything and that nothing is impossible. 
 
+### **User stories:**
+* As a user, I want to find out about the life of Muhammad ali from his Birth to the end of his life.
+* As a user, I want to see Images of Muhammad ali together with text content to enjoy reading about him.
+* As a user, I want to navigate the Website using multiple devices.
+* As a user, I want to be able to discuss and ask questions about Muhammad Ali.
+* As a user, I want to leave the website educated on the life of Muhammad ali.
+* As a user, I want to navigate on the website with ease.
+
+### **Target Audiences:**
+* Users who have never heard about Muhammad ali.
+* Users who have heard about Muhammad ali but wish to read and learn the history behind him.
+* Users who are interested in history of people.
+* Users who are looking to be inspired by history of people.
+
+### **What is the plan to achieve this:**
+
+* I am gonna build the website using mobile-first approach. This way I can build a responsive website to achieve navigation on multiple devices.
+* The Landing/About page of the website will have a hero image, a section with a summary of his life followed by more detailed information in a later section. In this section, his life is divided into 4 stages accompanied by an image of Muhammad Ali at that stage to enable users to learn about his whole life with an interactive experience to enjoy reading about him.
+* A form can be filled out on one of the website pages if one wishes to get in touch with the developer to discuss more about Muhammad Ali or ask questions.
+* I will make the website as simple and as clean as possible. The website will have a header with only a name logo, and a navigation bar with links to the pages. The footer will have socials and site aim. I will use simple colors, eye-catching images, and well-defined sections to make navigation of the website easy.
+
+### **color scheme:**
 
 
 ## **Features**
