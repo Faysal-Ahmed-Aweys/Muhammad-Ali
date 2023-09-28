@@ -115,7 +115,7 @@ A picture that reflects his age is right next to the text content on large scree
 ![Later years section](/assets/docs/screenshots/later-years.png)
 
 ### **Gallery page** 
-I decided to include a gallery page so that users can reflect upon what they have read and oversee how Muhammad ali lived his life in pictures as images say a lot more than words.
+I added a gallery page so users can see pictures of Muhammad Ali's life instead of just reading about him, as pictures say a lot more than words. This page has one section that has images of Muhammad Ali.
 
 #### **Ali images**
 ![Ali images](/assets/docs/screenshots/gallery.png)
@@ -123,10 +123,14 @@ I decided to include a gallery page so that users can reflect upon what they hav
 ### **Contact page and Thank you page common feature**
 
 #### **About the developer**
+Here I Added a bio about me to talk about my interests and why I decided to make a website about Muhammad Ali. I also mentioned that I welcome any discussions, suggestions, or questions about Muhammad Ali.
+
 ![About the developer](/assets/docs/screenshots/aboutdeveloper.png)
 
-### **Contact page** 
+### **Contact page Individual Features** 
 #### **Get in touch form**
+The purpose of this form is for users to reach out to the developer for any discussions, suggestions, or questions about Muhammad Ali. 
+
 ![get in touch form](/assets/docs/screenshots/form.png)
 
 ### **Thank you page** 
