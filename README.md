@@ -121,6 +121,8 @@ I deployed my website on github pages with these steps:
 3. under source, i selected "deploy from a branch" and under branch, i selected "main" branch and the root folder. Then i clicked save. 
 4. The website was deployed and can be found under deployments on the right menu of the repository. 
 
+Here is the link to my live website [Muhammad Ali](https://faysal-ahmed-aweys.github.io/Muhammad-Ali/)
+
 ## **Credits** 
 ### **Content**
 * I got Content on the landing page and inspiration from [History.com](https://www.history.com/topics/black-history/muhammad-ali). The reason why i chose this particular website is that it structures the life of Muhammad Ali so well and together with my plan to include a picture of Muhammad Ali at each stage, I thought they would be a perfect combination to present and get the users engaged in the website. 
