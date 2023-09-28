@@ -51,6 +51,10 @@ I decided to choose some shades of white, black and somewhat golden colors in or
  
 ![screenshot showing different colors used on the website](/assets/docs/screenshots/colorscheme.png)
 
+### **Fonts**
+
+I used open sans font from google fonts and sans serif font. These together keep the website clean and the content, easy to read. 
+
 ## **Features**
 ### **Curent Features common to all pages**
 #### **Header** 
