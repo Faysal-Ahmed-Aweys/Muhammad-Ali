@@ -55,38 +55,67 @@ I decided to choose some shades of white, black and somewhat golden colors in or
 
 I used open sans font from google fonts and sans serif font. These together keep the website clean and the content, easy to read. 
 
-## **Features**
-### **Curent Features common to all pages**
-#### **Header** 
-##### **Logo and title** 
+## **Current common Features on all pages**
+
+### **Header**
+
+The header is fixed on the pages. It allows easy navigation between pages on the website. This is to ensure Better user experience and flexibility. I was thinking of making a back to top button but due to the fixed header, it is not necessary. Here are the features of the header:
+
+#### **Logo and title**
+
+I decided to use a clean and simple logo that has the name Muhammad Ali and has shades of gold for color consistensy on the pages.
+
 ![Logo and title](/assets/docs/screenshots/logoandtitle.jpg)
 
-##### **Navigation bar**
+#### **Navigation bar**
+
+The navigation bar includes the logo and navigation links. The nav links have an active class that indicates which page the user is on and a hover effect to show that they are clickable links to improve user experience.
+
 ![navigation bar](/assets/docs/screenshots/navigationbar.png)
 
-##### **Footer**
+### **Footer**
+
+The footer contains links to three social platforms. The links do not take you to any pages that are related to the content of the website. I included these links to give my website some structure and to implement my skills.
+A short statement that states the purpose of the website is also included on the footer.
+
 ![footer](/assets/docs/screenshots/footer.jpg)
 
+## **Individual page Features**
 ### **Landing / About page**
+This page has a hero image, introduction section and a main section. Here are the features: 
+
 #### **Hero-image**
+The home page has a hero image right under the header. This image expresses about Muhammad Ali and shows that he was a great man before a user reads about him to give the users an idea of who the web page is about and attract them to read about him.
+
 ![hero-image](/assets/docs/screenshots/heroimage.png)
 
 #### **Introduction section**
+
+This section comes after the hero image and has two parts. One of which talks briefly about the life of Muhammad Ali and introduces readers to who he is. The other part is a table of content with links to the stages of Muhammad Ali’s life.
+
 ![introduction section](/assets/docs/screenshots/intro.png)
 
-#### **Early years section**
+#### **Main section**
+
+This section devides the life of Muhammad Ali into 4 stages. Early years section, Heavyweight champion section, Return to the ring section and Later years section.
+A picture that reflects his age is right next to the text content on large screens but comes after text content on small screens to improve user experience and so that users can be engaged in the website.
+
+![introduction section](/assets/docs/screenshots/intro.png)
+
+##### **Early years section**
 ![Early years section](/assets/docs/screenshots/early-years.png)
 
-#### **Heavyweight champion section**
+##### **Heavyweight champion section**
 ![Heavyweight section](/assets/docs/screenshots/champion.png)
 
-#### **Return to the ring section**
+##### **Return to the ring section**
 ![Return to the ring section](/assets/docs/screenshots/return.png)
 
-#### **Later years section**
+##### **Later years section**
 ![Later years section](/assets/docs/screenshots/later-years.png)
 
 ### **Gallery page** 
+I decided to include a gallery page so that users can reflect upon what they have read and oversee how Muhammad ali lived his life in pictures as images say a lot more than words.
 
 #### **Ali images**
 ![Ali images](/assets/docs/screenshots/gallery.png)
