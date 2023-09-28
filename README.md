@@ -108,6 +108,15 @@ no errors were returned on [W3C HTML validator](https://validator.w3.org/nu/?doc
 #### **CSS**
 no errors were returned on [W3C Jigsaw css validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffaysal-ahmed-aweys.github.io%2FMuhammad-Ali%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+## **Deployment**
+Following advice from the love running walthrough project of Code isntitute web development course and my mentor, i Deployed my website early. By deploying early, i discovered and fixed a couple of issues early like the logo and favicon not appearing when the deployed version of the website is run. 
+
+I deployed my website on github pages with these steps: 
+1. I clicked on the settings on my repository. 
+2. From the menu on the left, I clicked on pages. 
+3. under source, i selected "deploy from a branch" and under branch, i selected "main" branch and the root folder. Then i clicked save. 
+4. The website was deployed and can be found under deployments on the right menu of the repository. 
+
 ## **Credits** 
 ### **Content**
 * I got Content on the landing page and inspiration from [History.com](https://www.history.com/topics/black-history/muhammad-ali). The reason why i chose this particular website is that it structures the life of Muhammad Ali so well and together with my plan to include a picture of Muhammad Ali at each stage, I thought they would be a perfect combination to present and get the users engaged in the website. 
