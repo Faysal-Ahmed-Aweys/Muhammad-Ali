@@ -25,11 +25,11 @@ h3 {
     text-align: center;
     padding: 10px 10px 0 10px;
     color: black;
-    font-family: "open sans", sans-serif;
+    font-family: "open sans", serif;
 }
 
 p {
-    font-family: sans-serif;
+    font-family: serif;
     letter-spacing: 1px;
     padding: 10px 10px 20px 10px;
 }

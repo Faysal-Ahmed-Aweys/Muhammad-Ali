@@ -53,7 +53,7 @@ I decided to choose some shades of white, black and somewhat golden colors in or
 
 ### **Fonts**
 
-I used open sans font from google fonts and sans serif font. These together keep the website clean and the content, easy to read. 
+I used open sans font from google fonts for headings, sans serif font for links and serif for content on the pages. These together keep the website clean and the content, easy to read. 
 
 ## **Current common Features on all pages**
 
@@ -135,6 +135,7 @@ The purpose of this form is for users to reach out to the developer for any disc
 
 ### **Thank you page** 
 #### **Form feedback**
+The form uses GET instead of POST method. This is to improve user experience and to display feedback to the user to indicate that they have successfully completed the form. After the form is filled, The form section changes to thank you section and the rest remain the same on the ccontact page. A youtube video for more history on Muhammad Ali is included in the thank you section to give users more resources on him. 
 ![form feedback](/assets/docs/screenshots/thankyou.png)
 
 ## **Testing**
