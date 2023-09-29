@@ -157,23 +157,21 @@ I did lighthouse tests on my desktop chrome.
 
 1. About page
 
-
 ![About page](assets/docs/screenshots/aboutpage-desktop.png)
 
 2. Gallery page
 
+I improved the performace on Gallery page by compressing images on the page and then tested again to get a better result.
+
 ![Gallery page](assets/docs/screenshots/old-gallery-page.png)
 
-3. Gallery page improved
+1. Gallery page improved
    
 ![New gallery page](assets/docs/screenshots/improved-gallery-page.png)
 
 4. Contact page
 
 ![Contact page](assets/docs/screenshots/contact-page.png)
-
-
-
 
 ## **Deployment**
 Following advice from the love running walthrough project of Code isntitute web development course and my mentor, i Deployed my website early. By deploying early, i discovered and fixed a couple of issues early like the logo and favicon not appearing when the deployed version of the website is run. 
