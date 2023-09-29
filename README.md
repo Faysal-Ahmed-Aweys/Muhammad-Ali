@@ -71,7 +71,7 @@ I decided to use a clean and simple logo that has the name Muhammad Ali and has 
 
 The navigation bar includes the logo and navigation links. The nav links have an active class that indicates which page the user is on and a hover effect to show that they are clickable links to improve user experience.
 
-![navigation-bar](/assets/docs/screenshots/navigationbar.png)
+![navigationbar](/assets/docs/screenshots/navigation-bar.png)
 
 ### **Footer**
 
@@ -185,6 +185,15 @@ I deployed my website on github pages with these steps:
 Here is the link to my live website [Muhammad Ali](https://faysal-ahmed-aweys.github.io/Muhammad-Ali/)
 
 ## **Credits** 
+
+### **honourable mentions**
+I would like to thank my mentor David Bowers for his incredible support throughout the course of my project. 
+
+I would like to thank my sister Maryan Aweys who has helped me with choosing colors and designing my website. 
+
+### **General reference**
+Some of the code i used will be similar to the love running walthrough project as some of the design like the gallery page are the same. 
+
 ### **Content**
 * I got Content on the landing page and inspiration from [History.com](https://www.history.com/topics/black-history/muhammad-ali). The reason why i chose this particular website is that it structures the life of Muhammad Ali so well and together with my plan to include a picture of Muhammad Ali at each stage, I thought they would be a perfect combination to present and get the users engaged in the website. 
 * The social icons in the footer are from [Font Awesome](https://fontawesome.com/)
