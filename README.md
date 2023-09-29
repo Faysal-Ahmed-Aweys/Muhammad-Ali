@@ -71,7 +71,7 @@ I decided to use a clean and simple logo that has the name Muhammad Ali and has 
 
 The navigation bar includes the logo and navigation links. The nav links have an active class that indicates which page the user is on and a hover effect to show that they are clickable links to improve user experience.
 
-![navigation bar](/assets/docs/screenshots/navigationbar.png)
+![navigation-bar](/assets/docs/screenshots/navigationbar.png)
 
 ### **Footer**
 
@@ -151,6 +151,29 @@ I tested by website address and no errors were returned on [W3C HTML validator](
 
 #### **CSS**
 no errors were returned on [W3C Jigsaw css validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffaysal-ahmed-aweys.github.io%2FMuhammad-Ali%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+### **Lighthouse scores**
+I did lighthouse tests on my desktop chrome. 
+
+1. About page
+
+
+![About page](assets/docs/screenshots/aboutpage-desktop.png)
+
+2. Gallery page
+
+![Gallery page](assets/docs/screenshots/old-gallery-page.png)
+
+3. Gallery page improved
+   
+![New gallery page](assets/docs/screenshots/improved-gallery-page.png)
+
+4. Contact page
+
+![Contact page](assets/docs/screenshots/contact-page.png)
+
+
+
 
 ## **Deployment**
 Following advice from the love running walthrough project of Code isntitute web development course and my mentor, i Deployed my website early. By deploying early, i discovered and fixed a couple of issues early like the logo and favicon not appearing when the deployed version of the website is run. 
