@@ -152,8 +152,6 @@ I tested by website address and no errors were returned on [W3C HTML validator](
 #### **CSS**
 no errors were returned on [W3C Jigsaw css validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffaysal-ahmed-aweys.github.io%2FMuhammad-Ali%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-
-
 ## **Deployment**
 Following advice from the love running walthrough project of Code isntitute web development course and my mentor, i Deployed my website early. By deploying early, i discovered and fixed a couple of issues early like the logo and favicon not appearing when the deployed version of the website is run. 
 
