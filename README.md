@@ -138,13 +138,21 @@ The purpose of this form is for users to reach out to the developer for any disc
 The form uses GET instead of POST method. This is to improve user experience and to display feedback to the user to indicate that they have successfully completed the form. After the form is filled, The form section changes to thank you section and the rest remain the same on the ccontact page. A youtube video for more history on Muhammad Ali is included in the thank you section to give users more resources on him. 
 ![form feedback](/assets/docs/screenshots/thankyou.png)
 
+## **Future Enhancements** 
+As a static website, I am happy with the current features. However, There can be some changes and additional features to improve the website.
+
+1. With time and resources, I would add more people of history whose lives are inspiring. I would expand the website and add more resources to make it a history website that includes the lives and images of multiple historical figures instead of just one. The reason i didn’t include this feature is because i intended to make the minimal requirement for this project and not risk being late for the deadline.
+2. To get in touch with the user, I would change the Form on contact page method from GET to POST and send the form data to the developer's email.
+
 ## **Testing**
 ### **Validator testing**
 #### **HTML**
-no errors were returned on [W3C HTML validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffaysal-ahmed-aweys.github.io%2FMuhammad-Ali%2F)
+I tested by website address and no errors were returned on [W3C HTML validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffaysal-ahmed-aweys.github.io%2FMuhammad-Ali%2F)
 
 #### **CSS**
 no errors were returned on [W3C Jigsaw css validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffaysal-ahmed-aweys.github.io%2FMuhammad-Ali%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+
 
 ## **Deployment**
 Following advice from the love running walthrough project of Code isntitute web development course and my mentor, i Deployed my website early. By deploying early, i discovered and fixed a couple of issues early like the logo and favicon not appearing when the deployed version of the website is run. 
@@ -162,7 +170,7 @@ Here is the link to my live website [Muhammad Ali](https://faysal-ahmed-aweys.gi
 * I got Content on the landing page and inspiration from [History.com](https://www.history.com/topics/black-history/muhammad-ali). The reason why i chose this particular website is that it structures the life of Muhammad Ali so well and together with my plan to include a picture of Muhammad Ali at each stage, I thought they would be a perfect combination to present and get the users engaged in the website. 
 * The social icons in the footer are from [Font Awesome](https://fontawesome.com/)
 * I used [coolors.co](https://coolors.co/) to make sure colors used on the website are consitent throughout the development. 
-* I used [WAVE - Web accessibility evaluation tool](https://wave.webaim.org/) to check accesibility of the web pages. 
+* I used [WAVE - Web accessibility evaluation tool](https://wave.webaim.org/) to check accesibility of the web pages. - This has been being introduced to me by my mentor David Bowers and i am really grateful to him for it. 
 * All fonts used are from [Google Fonts](https://fonts.google.com/)
 * description text of meta tag for search engines is from [britannica.com](https://www.britannica.com/biography/Muhammad-Ali-boxer)
 
